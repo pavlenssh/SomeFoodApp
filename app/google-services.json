@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200522971664",
+    "project_id": "somefoodservice",
+    "storage_bucket": "somefoodservice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200522971664:android:0b4f17013f2863ac7a6895",
+        "android_client_info": {
+          "package_name": "com.example.testassignmenthammersystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200522971664-65mgmrcdeijhor88h21tu5rv7p0o4177.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBum5bw1tsWhn6NDXQycrE8A2tow8ThQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200522971664-65mgmrcdeijhor88h21tu5rv7p0o4177.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

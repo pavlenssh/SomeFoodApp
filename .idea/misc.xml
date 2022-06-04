@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable/chip_background_color.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable/ic_broken_image.xml" value="0.1814814814814815" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable/ic_connection_error.xml" value="0.3769230769230769" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable/image_banner_view.xml" value="0.3828125" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/drawable/loading_img.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/layout-v26/food_list_item_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/layout/activity_main.xml" value="0.2830188679245283" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/layout/banner_item_view.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/layout/food_list_item_view.xml" value="0.3089887640449438" />
+        <entry key="..\:/AndroidStudioProjects/testAssignmentHammerSystems/app/src/main/res/layout/type_item_view.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
